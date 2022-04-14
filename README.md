@@ -1,2 +1,2 @@
-# teste-react-kanban
+# React-Kanban
 Created with CodeSandbox
